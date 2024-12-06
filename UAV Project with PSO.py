@@ -1,4 +1,4 @@
-#UAV with UAV Project
+#UAV with PSO Project
 #Nhap cac thu vien can thiet
 
 import numpy as np # linear algebra
